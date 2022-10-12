@@ -1,4 +1,4 @@
-# FIOs-EDOs v.2022.1
+# FIOs-EDOs v2022.1
 A Program to Calculate Electron Transport and Electric Response Properties from Electron Deformation Orbitals
 
 ## Authors
