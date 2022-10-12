@@ -1,0 +1,10 @@
+
+  CHANGELOG for EDO-POL-HYP releases
+
+  0.1  2018-10-10
+    Initial release.
+    * Features:
+        * CMake implementation
+	* It works
+
+
